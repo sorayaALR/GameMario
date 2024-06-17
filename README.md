@@ -12,10 +12,9 @@ Esse game inspirado no Mário faz com que você tenha que apertar a tecla espaç
 
 <h3>Imagens do projeto:</h3>
 <div>
- <img width="300px" src="https://i.imgur.com/1bUH48J.png" alt="Imagem do jogo" >
+ <img width="300px" src="https://i.imgur.com/1bUH48J.png" alt="Imagem do jogo" ><br>
  <img width="300px" src="https://i.imgur.com/a0xz4kI.png" alt="Imagem do jogo" > 
 </div>
 
-<br>
-<h3>O projeto pode ser enocntrado em:</h3>
-https://sorayaribeiro.github.io/Game-Mario/
+
+

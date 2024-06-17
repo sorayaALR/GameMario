@@ -12,7 +12,7 @@ Esse game inspirado no Mário faz com que você tenha que apertar a tecla espaç
 
 <h3>Imagens do projeto:</h3>
 <div>
- <img width="300px" src="https://i.imgur.com/1bUH48J.png" alt="Imagem do jogo" ><br>
+ <img width="300px" src="https://i.imgur.com/1bUH48J.png" alt="Imagem do jogo" ><br><br>
  <img width="300px" src="https://i.imgur.com/a0xz4kI.png" alt="Imagem do jogo" > 
 </div>
 

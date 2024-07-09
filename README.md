@@ -16,5 +16,6 @@ Esse game inspirado no Mário faz com que você tenha que apertar a tecla espaç
  <img width="300px" src="https://i.imgur.com/a0xz4kI.png" alt="Imagem do jogo" > 
 </div>
 
+#O projeto pode ser visto em: https://sorayaalr.github.io/GameMario/
 
 
